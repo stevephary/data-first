@@ -1,4 +1,4 @@
-baseURL: ""
+baseURL: "https://wertyuii.netlify.app/"
 languageCode: 'en-us'
 title: 'DataFirst'
 theme: 'PaperMod'
