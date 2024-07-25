@@ -5,8 +5,8 @@ theme: 'PaperMod'
 
 params:
       homeInfoParams: 
-            Title: 'Data Engineering Insights'
-            content: Mastering data engineering with expert guidance.
+            Title: 'Notes on Data, Product & Generative AI📓'
+            content: A collection of scientific methods, processes, algorithms, and systems to build stories & models.
       SocialIcons:
           -  name: twitter
              url: https://twitter.com/
