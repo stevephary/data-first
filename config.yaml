@@ -5,7 +5,7 @@ theme: 'PaperMod'
 
 params:
       homeInfoParams: 
-            Title: 'Notes on Data, Product & Generative AI📓'
+            Title: '📓 Notes on Data, Product & Generative AI'
             content: A collection of scientific methods, processes, algorithms, and systems to build stories & models.
       SocialIcons:
           -  name: twitter
